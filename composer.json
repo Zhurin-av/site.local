@@ -1,0 +1,12 @@
+{
+    "name": "Reforma",
+    "require": {
+        "zendframework/zendframework": "2.2.*",
+        "doctrine/common": "2.4.*",
+        "doctrine/dbal": "2.4.1",
+        "doctrine/orm": "2.4.1",
+        "doctrine/doctrine-orm-module": "0.7.*",
+        "doctrine/data-fixtures": "dev-master",
+        "doctrine/migrations": "dev-master"
+    }
+}
